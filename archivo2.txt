@@ -1,3 +1,5 @@
 chancho feliz2
 Chanchon feliz2
-vamos a cambiar el chancho feliz 2 agregando esta linea que esperamos sea un aporte al conocimiento de este comando en git 
+lsvamos a cambiar el chancho feliz 2 agregando esta linea que esperamos sea un aporte al conocimiento de este comando en git 
+agregamos un dato adicional en el arhcivo 2 para proceso en rama branchFGO2
+asi de este modo probar el github
